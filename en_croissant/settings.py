@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['en-croissant.herokuapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
