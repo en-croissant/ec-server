@@ -126,7 +126,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 ASGI_APPLICATION = 'en_croissant.asgi.application'
 
 CHANNEL_LAYERS = {
-    'defautl': {
+    'default': {
         'BACKEND': 'channels.layers.InMemoryChannelLayer',
     },
 }
