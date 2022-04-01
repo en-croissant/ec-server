@@ -7,6 +7,7 @@ name = "pypi"
 channels = "*"
 django = "*"
 python-dotenv = "*"
+channels-redis = "*"
 
 [dev-packages]
 
